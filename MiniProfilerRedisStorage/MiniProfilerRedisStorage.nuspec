@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>MiniProfiler.RedisStorage</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>One Model</authors>
     <projectUrl>https://github.com/One-Model/MiniProfilerRedisStorage</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/One-Model/MiniProfilerRedisStorage/master/LICENSE</licenseUrl>
