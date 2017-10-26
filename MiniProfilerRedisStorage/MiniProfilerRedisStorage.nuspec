@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>MiniProfiler.RedisStorage</id>
-    <version>1.0.2</version>
+    <version>1.0.3-alpha1</version>
     <authors>One Model</authors>
     <projectUrl>https://github.com/One-Model/MiniProfilerRedisStorage</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/One-Model/MiniProfilerRedisStorage/master/LICENSE</licenseUrl>
@@ -14,7 +14,7 @@
     </frameworkAssemblies>
     <dependencies>
       <dependency id="MiniProfiler" version="3.2.0.157" />
-      <dependency id="StackExchange.Redis" version="1.2.6" />
+      <dependency id="StackExchange.Redis.StrongName" version="1.2.6" />
     </dependencies>
   </metadata>
   <files>
